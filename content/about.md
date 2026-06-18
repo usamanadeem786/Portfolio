@@ -8,7 +8,7 @@ seo:
 
 
 ---personal_info
-name: CARL HANSON
+name: Usama Bin Nadeem
 images:
   - src: /about.jpg
     alt: my image

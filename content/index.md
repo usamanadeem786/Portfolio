@@ -13,34 +13,33 @@ images:
     alt: my photo
 ---
 
-# <Typewriter>Carl Hanson</Typewriter>
+# <Typewriter>Usama Bin Nadeem</Typewriter>
 
-# *Web Developer* <span>&</span> *Growth Consultant*
+# *Web Developer* <span>&</span> *Backend Developer*
 
 <Sep size={12} />
 
-Sometimes five Imprimaturs are seen together dialogue-wise in the
-piazza of one title-page, complimenting and ducking each to other with
-their shaven reverences, whether the author, who stands by in
-perplexity at the foot of his epistle, shall to the press or to the
-sponge.
+I am a Software Engineer with experience in backend development, AI-powered applications, web automation, and enterprise software solutions. My expertise includes Python, FastAPI, Django, Flask, REST APIs, PostgreSQL, MySQL, Shopify customization, and Machine Learning.
+
+Throughout my professional journey, I have worked on AI chatbots, inventory management systems, authentication platforms, data scraping solutions, email verification systems, and business automation tools. I enjoy building scalable applications that deliver measurable value to users and organizations.
+
 
 
 
 ---achievements
-- number: 6+
+- number: 3+
   text: Years of experience
-- number: 60+
+- number: 25+
   text: Projects Completed
-- number: 5
-  text: OpenSource Libraries
+- number: 4
+  text: Python Frameworks
 ---
 
 
 
 ---cta
 ---
-<Button href="/contact" size="lg">
+<Button href="/Usama-CV-Resume.pdf" download="Usama_CV_Resume.pdf" size="lg">
   Download Resume
 </Button>
 
