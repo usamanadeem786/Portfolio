@@ -49,6 +49,18 @@
             "disabled": true
           },
           {
+            "label": "Malaysia",
+            "value": "Malaysia"
+          },
+          {
+            "label": "Pakistan",
+            "value": "Pakistan"
+          },
+          {
+            "label": "United Kingdom",
+            "value": "United Kingdom"
+          },
+          {
             "label": "United States",
             "value": "United States"
           },
@@ -63,79 +75,123 @@
           {
             "label": "France",
             "value": "France"
+          },
+          {
+            "label": "Other",
+            "value": "Other"
           }
         ]
       }
     ]
   },
   {
-    "legend": "What services do you need for your project?",
+    "legend": "Technologies Required",
     "columns": 3,
     "fields": [
       {
         "type": "checkbox",
-        "name": "project-type[Website Development]",
-        "label": "Website Development"
+        "name": "technologies[Python]",
+        "label": "Python"
       },
       {
         "type": "checkbox",
-        "name": "project-type[App Development]",
-        "label": "App Development"
+        "name": "technologies[FastAPI]",
+        "label": "FastAPI"
       },
       {
         "type": "checkbox",
-        "name": "project-type[Design System]",
-        "label": "Design System"
+        "name": "technologies[Django]",
+        "label": "Django"
       },
       {
         "type": "checkbox",
-        "name": "project-type[Website Migration]",
-        "label": "Website Migration"
+        "name": "technologies[Flask]",
+        "label": "Flask"
       },
       {
         "type": "checkbox",
-        "name": "project-type[E-commerce Site]",
-        "label": "E-commerce Site"
+        "name": "technologies[Streamlit]",
+        "label": "Streamlit"
       },
       {
         "type": "checkbox",
-        "name": "project-type[Performance Evaluation]",
-        "label": "Performance Evaluation"
+        "name": "technologies[PostgresSQL]",
+        "label": "PostgresSQL"
+      },
+      {
+        "type": "checkbox",
+        "name": "technologies[MySQL]",
+        "label": "MySQL"
+      },
+      {
+        "type": "checkbox",
+        "name": "technologies[MongoDB]",
+        "label": "MongoDB"
+      },
+      {
+        "type": "checkbox",
+        "name": "technologies[SQLite]",
+        "label": "SQLite"
+      },
+      {
+        "type": "checkbox",
+        "name": "technologies[BeautifulSoup / Selenium]",
+        "label": "BeautifulSoup / Selenium"
+      },
+      {
+        "type": "checkbox",
+        "name": "technologies[Shopify]",
+        "label": "Shopify"
+      },
+      {
+        "type": "checkbox",
+        "name": "technologies[Wordpress]",
+        "label": "Wordpress"
+      },
+      {
+        "type": "checkbox",
+        "name": "technologies[AI / Machine Learning]",
+        "label": "AI / Machine Learning"
+      },
+      {
+        "type": "checkbox",
+        "name": "technologies[Other]",
+        "label": "Other"
       }
     ]
   },
   {
-    "legend": "How much is the anticipated budget?",
+    "legend": "Work Location",
     "columns": 3,
     "fields": [
       {
         "type": "radio",
-        "name": "budget",
-        "value": "Less than $2,000",
-        "label": "Less than $2,000"
+        "name": "Work Location",
+        "value": "Onsite",
+        "label": "Onsite"
       },
       {
         "type": "radio",
-        "name": "budget",
-        "value": "$2,000 - $10,000",
-        "label": "$2,000 - $10,000"
+        "name": "Work Location",
+        "value": "Remote",
+        "label": "Remote"
       },
       {
         "type": "radio",
-        "name": "budget",
-        "value": "More than $10,000",
-        "label": "More than $10,000"
+        "name": "Work Location",
+        "value": "Hybrid",
+        "label": "Hybrid"
       }
     ]
   },
   {
-    "legend": "Tell me about your project",
+    "legend": "Tell me about the opportunity, the role, your company, project requirements, technologies, timeline, and anything else you'd like me to know.",
     "columns": 1,
     "fields": [
       {
         "type": "textarea",
         "name": "message",
-        "placeholder": "Project description",
+        "placeholder": "Job description",
         "rows": 3
       }
     ]

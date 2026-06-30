@@ -16,9 +16,9 @@ seo:
   ### _Let's talk about your project_
 </PageTitle>
 
-Thinking about a new project, a problem to solve, or just want to connect? Let's do it!
+I'm always open to discussing new opportunities, freelance projects, and collaborations.
 
-Use the form on this page or get in touch by other means.
+Feel free to reach out using the form below, and I'll respond as soon as I can.
 
 <Sep size="12" />
 
@@ -29,5 +29,5 @@ Use the form on this page or get in touch by other means.
 
   <Icon src="/icons/logo-linkedin.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Linkedin: [UsamaNadeem](https://www.linkedin.com/in/usama-nadeem-853749269/)
 
-  <Icon src="/icons/logo-twitter.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Twitter: [@Usamanadeem786](https://github.com/usamanadeem786)
+  <Icon src="/icons/logo-twitter.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Github: [@Usamanadeem786](https://github.com/usamanadeem786)
 </small>
